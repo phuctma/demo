@@ -1,7 +1,4 @@
 {
-  "profile": {
-    "name": "typicode"
-  },
   "inbound-calls": {"value": 18},
   "outbound-calls": {"value": 5},
   "avg-inbound-duration": {"value": "02:30"},
