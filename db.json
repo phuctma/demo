@@ -1,4 +1,8 @@
 {
-  "attributes": ["givenName", "sn", "userPrincipalName"],
-  "emailField": "userPrincipalName"
+  "attributes": [
+    {"name": "givenName"},
+    {"name": "sn"},
+    {"name": "userPrincipalName"}
+  ],
+  "emailField": {"name": "userPrincipalName"}
 }
