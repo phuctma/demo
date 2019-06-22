@@ -1,6 +1,6 @@
 {
   "ad": [
-    "attributes": ["givenName", "sn", "userPrincipalName"],
-    "emailField": "userPrincipalName"
+    {"attributes": ["givenName", "sn", "userPrincipalName"]},
+    {"emailField": "userPrincipalName"}
   ]
 }
